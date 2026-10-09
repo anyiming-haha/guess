@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\play_do\\first\\\u6570\u5B57\u6E38\u620F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8426F8-1D4C-4325-B17B-ED6E0AF78E96}|\u6570\u5B57\u6E38\u620F.pyproj|D:\\play_do\\first\\\u6570\u5B57\u6E38\u620F\\\u6570\u5B57\u6E38\u620F.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9A8426F8-1D4C-4325-B17B-ED6E0AF78E96}|\u6570\u5B57\u6E38\u620F.pyproj|solutionrelative:\u6570\u5B57\u6E38\u620F.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6570\u5B57\u6E38\u620F.py",
+              "DocumentMoniker": "D:\\play_do\\first\\\u6570\u5B57\u6E38\u620F\\\u6570\u5B57\u6E38\u620F.py",
+              "RelativeDocumentMoniker": "\u6570\u5B57\u6E38\u620F.py",
+              "ToolTip": "D:\\play_do\\first\\\u6570\u5B57\u6E38\u620F\\\u6570\u5B57\u6E38\u620F.py",
+              "RelativeToolTip": "\u6570\u5B57\u6E38\u620F.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-10-09T14:54:06.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
